@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
+
+.body{
+
+}
+.container{
+  width: 100%;
+  height: 600px;
+
+  background-color: #E0EBE8;
+  color: #4ab19a;
+}
+.navbar{
+
+}
+
+.logo{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 10%;
+  margin-top: 3%;
+}
+
+.links{
+  position: absolute;
+  right: 7%;
+  margin-top:5%;
+}
+a{
+  text-decoration: none;
+  padding: 40px;
+  color: #4ab19a;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Montserrat',sans-serif;
+}
+.textarea{
+  position: absolute;
+  text-align: center;
+  left: 37%;
+  top: 37%;
+}
+.text1{
+  font-size: 100px;
+  font-family: 'Sacramento',cursive;
+  line-height: 0%;
+}
+.text2{
+  font-size: 20px;
+  font-family: 'Montserrat',sans-serif;
+  line-height: 2;
+}
+.cloudimg1{
+  height: 90px;
+  width: 200px;
+  position: absolute;
+  left: 20%;
+  top:40%;
+
+
+}
+.cloudimg2{
+  height: 90px;
+  width: 200px;
+  position: absolute;
+  right: 10%;
+  top: 30%;
+}
+
+.hicontainer{
+  text-align: center;
+  margin: auto;
+  width: 60%
+}
+.hilogo{
+  height: 130px;
+  width: 130px;
+  position: absolute;
+  left: 45%;
+
+}
+
+.hi{
+  font-size: 33px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+  padding-top: 18%;
+
+}
+.hicode{
+
+  font-size: 21px;
+  color: #545454;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  color: grey;
+  border-style: dotted;
+  border-width: thick;
+  width: 30%;
+  border-bottom: 0;
+
+}
+.whatcanido{
+  text-align: center;
+}
+.whatdo{
+  font-size: 33px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+.whatcode{
+  font-size: 21px;
+  color: #545454;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+
+}
+.aboutme{
+  text-align: center;
+}
+.aboutmeh1{
+  font-size: 33px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+.aboutmep{
+  font-size: 21px;
+  color: #545454;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+}
+.skills{
+  text-align: center;
+  font-size: 33px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+.designpic{
+  margin: absolute;
+  left: 10;
+
+}
+.designwhat{
+  text-align: center;
+  font-size: 21px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+.designpic{
+  float: left;
+  height: 120px;
+  width: 120px;
+  padding-left: 20%;
+
+}
+.designp{
+  text-align: center;
+  font-size: 21px;
+  color: #545454;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+}
+.developpic{
+  float: right;
+  height: 120px;
+  width: 120px;
+  padding-right: 20%;
+}
+.develop{
+text-align: center;
+  font-size: 21px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+.developp{
+text-align: center;
+  margin-left: 10%;
+  font-size: 21px;
+  color: #545454;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+}
+.designwhat1{
+  text-align: center;
+  font-size: 21px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+.designpic1{
+  float: left;
+  height: 120px;
+  width: 120px;
+  padding-left: 20%;
+
+}
+.designp1{
+  text-align: center;
+  font-size: 21px;
+  color: #545454;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+}
+.developpic1{
+  float: right;
+  height: 120px;
+  width: 120px;
+  padding-right: 20%;
+}
+.develop1{
+text-align: center;
+  font-size: 21px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+.developp1{
+text-align: center;
+  margin-left: 10%;
+  font-size: 21px;
+  color: #545454;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+}
+.contactme{
+  text-align: center;
+
+}
+h2{
+  text-align: center;
+  font-size: 33px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+h3{
+  font-size: 21px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4ab19a;
+}
+p{
+
+  font-size: 21px;
+  color: #545454;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+}
+
+.mybutton{
+  display: inline;
+box-shadow: 0px 2px 0px 0px #3dc21b;
+color:#ffffff;
+background-color:#44c767;
+font-family:Verdana;
+font-size:17px;
+border-radius: 45%;
+text-shadow: 0px 1px 0px #2f6627;
+border:1px solid #5bcf67;
+padding: 25px 50px;
+}
+.mybutton:hover{
+background-color:#5cbf2a;
+color: green;
+}
+.footer{
+  background-color:  #E0EBE8;
+  height: 200px;
+  text-align: center;
+  margin: auto;
+}
+.footerlink:hover{
+  color: green;
+}
